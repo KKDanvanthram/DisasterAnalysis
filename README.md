@@ -14,6 +14,6 @@ Key Features
 2) Finds nearby cities within a specified radius.
 3) Filters and extracts relevant disaster data.
 4) Outputs the results in a structured JSON file.
-5) 
+
 This program is useful for analyzing how disasters impact cities within a certain proximity of a specified location.
 
